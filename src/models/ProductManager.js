@@ -98,7 +98,6 @@ class ProductManager {
     async deleteProduct(id) {
         try {
             await this.loadFileProducts();
-            
                 const productIndex = this.products.findIndex(
                     (product) => product.id === id
                 );
