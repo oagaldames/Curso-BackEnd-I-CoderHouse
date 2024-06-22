@@ -1,3 +1,3 @@
-# Segunda Pre-entrega Curso BackEnd I CoderHouse
+# Entrega Final Curso BackEnd I CoderHouse
 
 ## Alumno: Omar A. Galdames
